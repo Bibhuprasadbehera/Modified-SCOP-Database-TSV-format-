@@ -14,4 +14,4 @@ This repository provides a modified version of the Structural Classification of 
 
 **Contact:**
 
-* [(https://github.com/Bibhuprasadbehera)] or [bibhu.behera@niser.ac.in] (for questions about this modified database)
+* [https://github.com/Bibhuprasadbehera] or [bibhu.behera@niser.ac.in] (for questions about this modified database)
